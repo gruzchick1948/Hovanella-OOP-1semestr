@@ -1,0 +1,16 @@
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.exe
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.deps.json
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.runtimeconfig.json
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.runtimeconfig.dev.json
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.dll
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\ref\Laba2.dll
+D:\Образование\C#\OOP1Semester\Laba2\bin\Debug\net5.0\Laba2.pdb
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.csproj.AssemblyReference.cache
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.AssemblyInfoInputs.cache
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.AssemblyInfo.cs
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.csproj.CoreCompileInputs.cache
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.dll
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\ref\Laba2.dll
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.pdb
+D:\Образование\C#\OOP1Semester\Laba2\obj\Debug\net5.0\Laba2.genruntimeconfig.cache
