@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\source\\Hovanella-OOP-1semestr\\Laba2\\Laba2\\Laba2.csproj",
+      "projectUniqueName": "E:\\source\\OOP\\Laba2\\Laba2\\Laba2.csproj",
       "projectName": "Laba2",
-      "projectPath": "E:\\source\\Hovanella-OOP-1semestr\\Laba2\\Laba2\\Laba2.csproj",
+      "projectPath": "E:\\source\\OOP\\Laba2\\Laba2\\Laba2.csproj",
       "packagesPath": "C:\\Users\\Dima\\.nuget\\packages\\",
-      "outputPath": "E:\\source\\Hovanella-OOP-1semestr\\Laba2\\Laba2\\obj\\",
+      "outputPath": "E:\\source\\OOP\\Laba2\\Laba2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dima\\AppData\\Roaming\\NuGet\\NuGet.Config",
