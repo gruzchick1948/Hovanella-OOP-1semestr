@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Text;
-
+//BRUH
 namespace Laba2
 {
     internal static class Program

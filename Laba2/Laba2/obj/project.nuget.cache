@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ya1+U2tAmwXS0ZFf9Jxe5piKjcMBJ8MZTKVtzmm+sbs7BSXX5PmmQXE66OuCKMk1aePpCNWmjcBBR278SPi+yw==",
+  "dgSpecHash": "utnEdnNWovWaPg1623vJ18UVuzlWWqnMC9G/5X2nwCHuTfK7JLr3CL0fczFENlCFXPGWd92Neha3zUU4tZFIWQ==",
   "success": true,
-  "projectFilePath": "D:\\Образование\\C#\\OOP1Semestr\\Laba2\\Laba2\\Laba2.csproj",
+  "projectFilePath": "E:\\source\\Hovanella-OOP-1semestr\\Laba2\\Laba2\\Laba2.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file D:\\Образование\\C#\\OOP1Semestr\\Laba2\\Laba2\\obj\\project.nuget.cache : Found invalid data while decoding."
-    }
-  ]
+  "logs": []
 }
